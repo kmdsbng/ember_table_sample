@@ -1,3 +1,3 @@
 
-demo http://kmdsbng.github.com/ember_table_game/examples/table_simple/
+demo http://kmdsbng.github.com/ember_table_sample/examples/table_simple/
 
